@@ -1,0 +1,12 @@
+{
+	"name": "Demo_testing1",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://www.eurotaxglasswebservices.com.au/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
