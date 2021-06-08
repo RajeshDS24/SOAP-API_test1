@@ -1,0 +1,14 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"description": "Gen 1 is used as a destination to the SOAP API source data",
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://soapapistorage1.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "fd6ba789-48c7-4ea1-8fdf-c2d24c9c221b",
+			"subscriptionId": "2df59d2d-7e09-4e4a-9e58-87cea787c453",
+			"resourceGroupName": "APITest"
+		}
+	}
+}
